@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mishraswapnil10112@gmail.com**
 
-- ⚡ Fun fact **Loading...**
+- ⚡ Fun fact **Algorithms never sleep...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
