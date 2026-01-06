@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Swapnil Mishra</h1>
-<h3 align="center">An AI/ML Enthusiast</h3>
+<h3 align="center">A Computer Science & Engineering Student..!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil-ncode" alt="swapnil-ncode" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learnig Models**
+- 🔭 I’m currently working on **Machine Learning Models**
 
 - 🌱 I’m currently learning **Python, AI, ML, IoT**
 
